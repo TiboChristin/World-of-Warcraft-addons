@@ -515,7 +515,7 @@ L["fr"] = {
     COLLABORATOR_AUTHOR = "DarkAce",
     COLLABORATOR_AUTHOR_DESC = "Créateur et développeur",
     COLLABORATOR_JOIN_TITLE = "Envie d'aider ?",
-    COLLABORATOR_JOIN_DESC = "Si tu veux traduire l'addon dans d'autres langues ou contribuer au code, rejoins-nous sur GitHub !",
+    COLLABORATOR_JOIN_DESC = "Si vous souhaitez traduire l'addon dans d'autres langues ou contribuer au code, rejoignez-nous sur GitHub !",
 }
 
 -- Get localized string function
